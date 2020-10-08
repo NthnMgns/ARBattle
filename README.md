@@ -52,10 +52,12 @@ Pendant la séance :
   - AR.js : on arrive à importer un modèle 3D custom, et à utiliser un marker custom
   - problème : les markers sont assez limités et ne permettent pas de reconnaître une grande variété d'images
   - Glitch : brouillon sur https://glitch.com/edit/#!/ar-battle-nancy?path=index.html%3A4%3A8
-
-version d'Iris fonctionelle : 
+             version d'Iris fonctionelle : 
+             
+             
 Bilan :
   - on continue sur AR.js
+  
   
 A venir :
   - on essaie de remplacer les markers de AR.js par des NFT marker (https://www.kalwaltart.com/blog/2020/02/25/tutorial-create-marker-nft/)
