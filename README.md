@@ -51,6 +51,7 @@ Présents : Iris, Clémence, Nathan, Léo.
 Pendant la séance :
   - AR.js : on arrive à importer un modèle 3D custom, et à utiliser un marker custom
   - problème : les markers sont assez limités et ne permettent pas de reconnaître une grande variété d'images
+  - Reconnaissance des cartes : Etat de l'art + Test d'un classifieur déjà entrainé https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
   - Glitch : brouillon sur https://glitch.com/edit/#!/ar-battle-nancy?path=index.html%3A4%3A8
              version d'Iris fonctionelle : 
              
@@ -61,4 +62,5 @@ Bilan :
   
 A venir :
   - on essaie de remplacer les markers de AR.js par des NFT marker (https://www.kalwaltart.com/blog/2020/02/25/tutorial-create-marker-nft/)
+  - Finir le tuto d'installation pour la reconnaissance de cartes puis l'essayer
 
