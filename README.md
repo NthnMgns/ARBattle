@@ -74,7 +74,7 @@ Pendant la séance :
   - Intégration perso 3D au jeu (Clem)
              
 Bilan :
-  - 
+  - NFT markers ne fonctionnent pas
   
   
 A venir :
