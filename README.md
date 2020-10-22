@@ -75,6 +75,7 @@ Pendant la séance :
              
 Bilan :
   - NFT markers ne fonctionnent pas
+  - L'application AR core commence à fonctionner ! Hourra. Bon maintenant je commence à construire une base de données d'images qui seront reconnnues par l'application et qui permettent l'affichage d'objets 3d au choix ensuite. Voilà comment construire la BDD : https://developers.google.com/ar/develop/c/augmented-images/arcoreimg . 
   
   
 A venir :
