@@ -54,7 +54,7 @@ Pendant la séance :
   - Reconnaissance des cartes : Etat de l'art + Test d'un classifieur déjà entrainé https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
   - Glitch : brouillon sur https://glitch.com/edit/#!/ar-battle-nancy?path=index.html%3A4%3A8
              version d'Iris fonctionelle : 
-             
+  - ARcore: introduction de personnages 3D personnalisés             
              
 Bilan :
   - on continue sur AR.js
