@@ -79,4 +79,4 @@ Bilan :
   
   
 A venir :
-  - 
+  - On met toutes les forces vives sur AR core car c'est ce qui est le plus prometteur 
