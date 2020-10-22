@@ -64,3 +64,15 @@ A venir :
   - on essaie de remplacer les markers de AR.js par des NFT marker (https://www.kalwaltart.com/blog/2020/02/25/tutorial-create-marker-nft/)
   - Finir le tuto d'installation pour la reconnaissance de cartes puis l'essayer
 
+## Jeudi 22 octobre
+Présents : Iris, Clémence, Nathan, Léo.
+
+Pendant la séance :
+  -
+             
+Bilan :
+  - 
+  
+  
+A venir :
+  - 
