@@ -69,7 +69,7 @@ Présents : Iris, Clémence, Nathan, Léo.
 
 Pendant la séance :
   - Pseudo code règles du jeu (Iris)
-  - NFT markers (Leo)
+  - NFT markers (Léo)
   - Détection de cartes (Nat)
   - Intégration perso 3D au jeu (Clem)
              
