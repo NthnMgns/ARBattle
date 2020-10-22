@@ -80,3 +80,4 @@ Bilan :
   
 A venir :
   - On met toutes les forces vives sur AR core car c'est ce qui est le plus prometteur 
+  - Faire le Augmented Images a partir de ce site https://developers.google.com/ar/develop/java/augmented-images/guide
