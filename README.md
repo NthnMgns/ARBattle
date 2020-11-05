@@ -45,6 +45,7 @@ A venir :
 - Codage de différents modèles 3D(en AR.js)
 - Création de scène avec modèle 3D (en ARcore)
 
+
 ## Jeudi 8 octobre
 Présents : Iris, Clémence, Nathan, Léo.
 
@@ -64,6 +65,7 @@ A venir :
   - on essaie de remplacer les markers de AR.js par des NFT marker (https://www.kalwaltart.com/blog/2020/02/25/tutorial-create-marker-nft/)
   - Finir le tuto d'installation pour la reconnaissance de cartes puis l'essayer
 
+
 ## Jeudi 22 octobre
 Présents : Iris, Clémence, Nathan, Léo.
 
@@ -81,3 +83,16 @@ Bilan :
 A venir :
   - On met toutes les forces vives sur AR core car c'est ce qui est le plus prometteur 
   - Faire le Augmented Images a partir de ce site https://developers.google.com/ar/develop/java/augmented-images/guide
+
+
+## Jeudi 5 novembre
+Distanciel : Iris, Clémence, Nathan, Léo.
+
+Pendant la séance :
+  - Iris et Clem essaie de s'occuper d'ARcore, de la lecture de bases de données etc
+  - Nat bosse sur la reconnaissance des photos?
+  - Léo s'improvise photographe et prend des photos des cartes pour faire la base de données
+
+Bilan :
+
+A venir :
