@@ -29,7 +29,7 @@ Pendant la séance :
 - Création repo Github
 - Diapo de présentation sur le drive
 - Prise en main de AR.js 
-- Prise en main de ARcore
+- Prise en main de ARcore grâce notamment à ce tuto qui permet de créer des objets quand on clique qq part https://ayusch.com/building-arcore-app-android-studio/
 - Choix de modèles 3D
 - Tests sur Android d'exemples existants
 
