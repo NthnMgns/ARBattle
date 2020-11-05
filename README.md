@@ -90,9 +90,11 @@ Distanciel : Iris, Clémence, Nathan, Léo.
 
 Pendant la séance :
   - Iris et Clem essaie de s'occuper d'ARcore, de la lecture de bases de données etc
-  - Nat bosse sur la reconnaissance des photos?
-  - Léo s'improvise photographe et prend des photos des cartes pour faire la base de données
+  - Nat bosse sur la reconnaissance des photos avec https://github.com/geaxgx/playing-card-detection
+  - Léo s'improvise photographe et prend des photos et des vidéos des cartes pour faire la base de données
 
 Bilan :
+  - La reconnaissance d'image marche mais est à améliorer
 
 A venir :
+  - essayer de faire la reconnaissance avec des vidéos pour l'entrainement !
