@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <androidx.fragment.app.FragmentContainerView android:name="com.google.ar.sceneform.ux.ArFragment"
+    <androidx.fragment.app.FragmentContainerView
         android:id="@+id/ux_fragment"
+        android:name="com.google.ar.sceneform.ux.ArFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:rotation="90"
+        android:rotationX="-360"
+        android:selectAllOnFocus="false"
+        android:shadowColor="#120606"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="5"
+        android:text="@string/textview"
+        android:textColor="#B60505"
+        android:textColorHighlight="#870C0C"
+        android:textColorHint="#810808"
+        android:translationX="800px"
+        android:translationY="100px"
+        app:autoSizeTextType="none"
+        tools:text="Player 1" />
 
 </FrameLayout>

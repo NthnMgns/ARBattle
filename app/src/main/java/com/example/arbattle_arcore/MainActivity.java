@@ -10,8 +10,11 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.MotionEvent;
+import android.widget.ImageButton;
 import android.widget.Toast;
-
+import com.google.ar.core.Anchor;
+import com.google.ar.sceneform.rendering.Renderable;
+import com.google.ar.sceneform.ux.ArFragment;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -20,6 +23,7 @@ import com.google.ar.core.HitResult;
 import com.google.ar.core.Plane;
 import com.google.ar.sceneform.AnchorNode;
 import com.google.ar.sceneform.rendering.ModelRenderable;
+import com.google.ar.sceneform.rendering.ViewRenderable;
 import com.google.ar.sceneform.ux.ArFragment;
 import com.google.ar.sceneform.ux.TransformableNode;
 
@@ -70,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
                     lamp.select();
                 }
         );
-
     }
 
     public static boolean checkIsSupportedDeviceOrFinish(final Activity activity) {
