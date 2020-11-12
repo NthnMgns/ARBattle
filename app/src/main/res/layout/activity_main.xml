@@ -53,4 +53,15 @@
         android:translationX="20px"
         android:translationY="1700px" />
 
+    <ImageView
+        android:id="@+id/crown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="90"
+        android:scaleX="0.2"
+        android:scaleY="0.2"
+        android:translationX="20px"
+        android:translationY="1558px"
+        app:srcCompat="@mipmap/crowns" />
+
 </FrameLayout>
