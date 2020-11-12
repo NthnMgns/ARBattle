@@ -95,3 +95,15 @@ Pendant la séance :
 
 A venir :
   - entrainer un CNN avec la base de données crée !
+
+
+## Jeudi 12 novembre
+Distanciel : Iris, Clémence, Nathan, Léo.
+
+Pendant la séance :
+  - Clem finit son tuto sur les databases en AR
+  - Iris travaille toujours sur les visuels/graphisme du jeu (points, noms et joueurs etc)
+  - Leo travaille sur les perso 3D et comment intégrer des animations dans ARcore
+  - Nathan travaille sur le reseau de neurones d'apprentissage de reconnaissance des cartes et le fait tourner sur Google collab eventuellement.
+
+A venir :
