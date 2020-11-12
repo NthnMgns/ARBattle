@@ -14,8 +14,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="70dp"
-        android:layout_height="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:fontFamily="@font/alfa_slab_one"
         android:rotation="90"
         android:rotationX="-360"
@@ -28,9 +28,29 @@
         android:textColor="#B60505"
         android:textColorHighlight="#870C0C"
         android:textColorHint="#810808"
-        android:translationX="800px"
+        android:translationX="850px"
         android:translationY="100px"
+        android:textSize="18sp"
         app:autoSizeTextType="none"
         tools:text="Player 1" />
+
+    <TextView
+        android:id="@+id/player2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/alfa_slab_one"
+        android:rotation="90"
+        android:rotationX="-360"
+        android:shadowColor="#0B0A0A"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="5"
+        android:text="Player 2"
+        android:textColor="#E40C2091"
+        android:textColorHighlight="#061D9C"
+        android:textColorHint="#061B93"
+        android:textSize="18sp"
+        android:translationX="20px"
+        android:translationY="1700px" />
 
 </FrameLayout>
