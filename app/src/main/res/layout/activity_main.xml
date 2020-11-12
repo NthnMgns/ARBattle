@@ -28,9 +28,9 @@
         android:textColor="#B60505"
         android:textColorHighlight="#870C0C"
         android:textColorHint="#810808"
+        android:textSize="18sp"
         android:translationX="850px"
         android:translationY="100px"
-        android:textSize="18sp"
         app:autoSizeTextType="none"
         tools:text="Player 1" />
 
@@ -63,5 +63,27 @@
         android:translationX="20px"
         android:translationY="1558px"
         app:srcCompat="@mipmap/crowns" />
+
+    <ProgressBar
+        android:id="@+id/progressbarplay2"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="90"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:translationX="0px"
+        android:translationY="1715px" />
+
+    <ProgressBar
+        android:id="@+id/progressbarplay1"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="90"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:translationX="820px"
+        android:translationY="130px" />
 
 </FrameLayout>
