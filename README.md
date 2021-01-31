@@ -104,6 +104,8 @@ Pendant la séance :
   - Clem finit son tuto sur les databases en AR
   - Iris travaille toujours sur les visuels/graphisme du jeu (points, noms et joueurs etc). Player 1 & Player 2 ajouté. Il faut les rendre modifiables si on veut. Ensuite, mettre des variables pour mettre à jour les progress bar player 1 et player 2. Rajouter texte pour le nombre de point player 1 et player 2.
   - Leo travaille sur les perso 3D et comment intégrer des animations dans ARcore
-  - Nathan travaille sur le reseau de neurones d'apprentissage de reconnaissance des cartes et le fait tourner sur Google collab eventuellement.
+  - Nathan travaille sur le reseau de neurones d'apprentissage de reconnaissance des cartes : https://github.com/ultralytics/yolov3/tree/master
 
-A venir :
+Résulat :
+
+![](https://github.com/NthnMgns/ARBattle/blob/master/images/pred_batch1.jpg)
